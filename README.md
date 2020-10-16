@@ -12,3 +12,5 @@ This is the empty repo for the first website we'll create in Intro to CS this ye
 
 1. [CodeHS](http://www.codehs.com) (especially the docs to look things up quickly).
 2. [W3 Schools](https://www.w3schools.com/)
+
+<>
